@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33238'
     url: http://www.gutenberg.org/2009/agents/33238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28272#Biographia-Scoticana--Scots-Worthies-A-Brief-Historical-Account-of-the-Lives-Characters-and-M_
 gutenberg_issued: '2009-03-07'
 gutenberg_type: Text
 identifiers:
