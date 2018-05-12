@@ -1,0 +1,31 @@
+_repo: Biographia-Scoticana--Scots-Worthies-A-Brief-Historical-Account-of-the-Lives-Characters-and-M__28272
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howie, John
+    birthdate: 1735
+    deathdate: 1793
+    gutenberg_agent_id: '33238'
+    url: http://www.gutenberg.org/2009/agents/33238
+description: ''
+gutenberg_issued: '2009-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of Scotland -- Biography'
+- !lcc 'BX'
+- !lcc 'CT'
+- !lcsh 'Scotland -- Biography'
+title: 'Biographia Scoticana (Scots Worthies)
+
+  A Brief Historical Account of the Lives, Characters, and Memorable Transactions
+  of the Most Eminent Scots Worthies'
+url: http://www.gutenberg.org/ebooks/28272
